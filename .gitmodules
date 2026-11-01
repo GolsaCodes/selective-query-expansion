@@ -1,0 +1,3 @@
+[submodule "external/llm-query-expansion-retrieval"]
+	path = external/llm-query-expansion-retrieval
+	url = https://github.com/GolsaCodes/llm-query-expansion-retrieval.git
