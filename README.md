@@ -273,5 +273,3 @@ This project explores an adaptive approach to query expansion by training Machin
 Using six query-level features and NDCG@10-based labels, three classifiers are evaluated: Random Forest, XGBoost, and Logistic Regression.
 
 The results show that the selection task is challenging with the current feature set and dataset size. Although Logistic Regression achieves the best reported mean cross-validation performance, the predictive results indicate that more informative features and further experimentation are needed.
-
-The project provides a foundation for developing adaptive retrieval systems that apply query expansion selectively rather than uniformly.
