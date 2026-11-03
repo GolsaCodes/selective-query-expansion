@@ -1,4 +1,4 @@
-# Adaptive Query Expansion
+# Selective Query Expansion
 
 ### Learning to Select Between Original and Expanded Queries for Sparse Retrieval
 
