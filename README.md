@@ -1,6 +1,7 @@
 # Selective Query Expansion
 
-### Learning to Select Between Original and Expanded Queries for Sparse Retrieval
+### [Learning to Select Between Original and Expanded Queries for Sparse Retrieval](https://medium.com/@golsaa2002/selective-query-expansion-for-information-retrieval-learning-to-select-between-original-and-b7bb1afacf76)
+
 
 ## Overview
 
