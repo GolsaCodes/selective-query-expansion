@@ -38,7 +38,7 @@ adaptive-query-expansion/
 Clone the repository together with its submodules:
 
 ```bash
-git clone --recurse-submodules https://github.com/GolsaCodes/adaptive-query-expansion.git
+git clone --recurse-submodules https://github.com/GolsaCodes/selective-query-expansion.git
 ```
 
 If you have already cloned the repository without its submodules, initialize them using:
